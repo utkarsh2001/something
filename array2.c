@@ -1,4 +1,4 @@
-/* scan andprint
+ scan and print
 #include <stdio.h>
 int main(){
 	int b[5];
@@ -11,7 +11,7 @@ int main(){
 	}
 	return 0;	
 }
-*/
+
 
 
 
